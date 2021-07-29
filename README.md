@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WJDIII
+- 👋 Hi, I’m @WJDIII (Ryan Dean) I am currently studying applied data science @ syracuse university
 - 👀 I’m interested in computational finance, algorithmic trading, machine learning, statistics, numerical methods, computer science
 - 🌱 I’m currently learning machine learning applications in finance, honing in on object oriented programming languages
 - 💞️ I’m looking to collaborate on ...
