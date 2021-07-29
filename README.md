@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WJDIII
-- 👀 I’m interested in computational finance, machine learning, statistics, numerical methods, computer science
+- 👀 I’m interested in computational finance, algorithmic trading, machine learning, statistics, numerical methods, computer science
 - 🌱 I’m currently learning machine learning applications in finance, honing in on object oriented programming languages
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me rdean01@syr.edu
